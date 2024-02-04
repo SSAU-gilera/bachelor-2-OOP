@@ -1,0 +1,5 @@
+﻿  lab4_oop.cpp
+  Library.cpp
+  Создание кода...
+lab4_oop.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Library::Library(void)" (??0Library@@QAE@XZ) в функции _main
+C:\Users\Lera\source\repos\lab4_oop\Debug\lab4_oop.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

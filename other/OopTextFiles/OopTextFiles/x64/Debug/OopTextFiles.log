@@ -1,0 +1,15 @@
+﻿  OopTextFiles.cpp
+C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\OopTextFiles.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\OopTextFiles.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\OopTextFiles.cpp(5): note: использование предварительно скомпилированного заголовка
+  TextFile.cpp
+C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(4): note: использование предварительно скомпилированного заголовка
+C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(13): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(13): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(13): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(13): note: этот аргумент используется в качестве размера буфера
+C:\Users\Lera\source\repos\OopTextFiles\OopTextFiles\TextFile.cpp(36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  OopTextFiles.vcxproj -> C:\Users\Lera\source\repos\OopTextFiles\x64\Debug\OopTextFiles.exe

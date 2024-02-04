@@ -1,0 +1,15 @@
+﻿  pch.cpp
+  OopTextFiles.cpp
+c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\ooptextfiles.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\ooptextfiles.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\ooptextfiles.cpp(5): note: использование предварительно скомпилированного заголовка
+  TextFile.cpp
+c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(2): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(2): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(4): note: использование предварительно скомпилированного заголовка
+c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(9): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(9): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(9): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%s"
+  c:\users\роппг\source\repos\ooptextfiles\ooptextfiles\textfile.cpp(9): note: этот аргумент используется в качестве размера буфера
+OopTextFiles.obj : error LNK2005: "int __cdecl cmpr(void const *,void const *)" (?cmpr@@YAHPBX0@Z) уже определен в OopTextFiles.obj
+C:\Users\роппг\source\repos\OopTextFiles\Release\OopTextFiles.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
